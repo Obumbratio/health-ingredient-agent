@@ -1,6 +1,6 @@
 # Project Status Audit: Health Ingredient Agent 🥗
 
-> **GatewayHacks 2026** — Accessibility & Health Track  
+> **Health & Food Transparency Platform**  
 > **Source of Truth Status Report** | Overall Completion: **48%**
 
 ---

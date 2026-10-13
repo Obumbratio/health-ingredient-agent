@@ -9,7 +9,7 @@ from src.agent.analyzer import HealthIngredientAgent, ProductHealthReport
 
 # Configuración inicial de la página
 st.set_page_config(
-    page_title="Health Ingredient Agent — GatewayHacks 2026",
+    page_title="Health Ingredient Agent | Transparency & Safety",
     page_icon="🥗",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -102,7 +102,7 @@ if "current_report" not in st.session_state:
 # Barra lateral: Configuración, perfil de salud y telemetría de servicios
 with st.sidebar:
     st.title("🥗 Health Agent")
-    st.caption("GatewayHacks 2026 — Track: Accessibility & Health")
+    st.caption("AI-Powered Health & Transparency Platform")
     st.divider()
 
     st.subheader("👤 Perfil de Salud Activo")

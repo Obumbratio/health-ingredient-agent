@@ -3,7 +3,8 @@
 [![Project Status: WIP 48%](https://img.shields.io/badge/Status-WIP%20(48%25)-yellow.svg)](STATUS.md)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B.svg)](https://streamlit.io/)
-[![Hackathon: GatewayHacks 2026](https://img.shields.io/badge/GatewayHacks-2026-brightgreen.svg)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Obumbratio/health-ingredient-agent/pulls)
 
 > **Health Ingredient Agent** is an interactive health transparency tool that audits packaged food products, checks official OpenFDA manufacturer recall records, and uses LLMs to translate complex chemical ingredients into simple, 10-year-old-level explanations.
 
@@ -100,5 +101,19 @@ Prioritized from the [STATUS.md](STATUS.md) audit:
 
 ---
 
+## 🤝 Contributing
+
+Contributions are welcome! If you'd like to improve the health agent, fix an issue, or add features:
+
+1. Fork the repository.
+2. Create your feature branch (`git checkout -b feature/amazing-feature`).
+3. Commit your changes (`git commit -m 'feat: add amazing feature'`).
+4. Push to the branch (`git push origin feature/amazing-feature`).
+5. Open a Pull Request.
+
+---
+
 ## 📄 License
-Developed for GatewayHacks 2026. Distributed under the MIT License.
+
+This project is open-source software licensed under the [MIT License](LICENSE).
+
